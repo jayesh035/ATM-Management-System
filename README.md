@@ -1,6 +1,6 @@
-# OOP Banking System
+# ATM MANAGEMENT SYSTEM
 
-This project is a simple command-line banking system implemented in Java. It simulates basic banking operations such as withdrawal, deposit, transfer, and PIN change. The project demonstrates the principles of object-oriented programming (OOP), such as encapsulation, inheritance, and polymorphism.
+This project is a simple command-line ATM MANAGEMENT SYSTEM implemented in Java. It simulates basic banking operations such as withdrawal, deposit, transfer, and PIN change. The project demonstrates the principles of object-oriented programming (OOP), such as encapsulation, inheritance, and polymorphism.
 
 ## Features
 
